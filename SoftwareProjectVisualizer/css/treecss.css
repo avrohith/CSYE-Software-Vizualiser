@@ -1,0 +1,32 @@
+/* CSS Document */
+
+#directoryList
+{
+	list-style:none;	
+}
+
+#directoryList li img{
+padding-right:5px;
+}
+
+
+
+#directoryList li a {
+	color:#00F;
+	cursor:pointer;
+	}
+
+#directoryList li a:visited{
+	color:#00F;
+	cursor:pointer;
+}
+
+#directoryList li a:hover{
+	color:#F00;
+	cursor:pointer;
+}
+
+#directoryList li a:active{
+	color:#00F;
+	cursor:pointer;
+}

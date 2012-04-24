@@ -1,0 +1,47 @@
+.window {
+	border:0.1em dotted #d4e06b;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	width:14em;
+	height:4em;
+	z-index:20;
+	position:absolute;
+	color:black;
+	font-family:helvetica, sans;
+	padding-top:0.9em;
+	font-size:0.9em;
+	text-align:center;
+	background-color:white;
+	top: 149px;
+}
+#GameObject {
+	left:237px;
+}
+#VisualGameObject {
+	left:237px;
+	top:275px;
+}
+#MainMenu {
+	left:28px;
+	top:429px;
+}
+#AnimatedGameObject {
+	left:245px;
+	top:430px;
+}
+#RepeatingGameObject {
+	left:457px;
+	top:432px;
+}
+#Powerup {
+	left:22px;
+	top:567px;
+}
+#LevelEndPost {
+	top:564px;
+	left:243px;
+}
+#Player {
+	left:462px;
+	top:560px;
+}
